@@ -1,0 +1,16 @@
+﻿@using MobileShop.Core.Repositories.IRepository
+@inject IUnitOfWork unitOfWork
+@{
+    var category = await unitOfWork.CategoryRepository.GetAllAsync();
+}
+
+<li class="nav-item dropdown">
+        <a class="dropdown-toggle nav-link" data-toggle="dropdown" data-bs-toggle="dropdown">Danh mục</a>
+         <div class="dropdown-menu">
+             <a class="dropdown-item" href="/Product/">Tất cả sản phẩm</a>
+        @foreach (var item in category)
+        {
+            <a class="dropdown-item" href="/Product/ProductByCategory/@item.CategoryId">@item.CategoryName</a>
+        }
+         </div>
+</li>

@@ -1,0 +1,66 @@
+﻿@model IEnumerable<MobileShop.Core.Models.UserCart>
+
+@{
+    decimal totalMoney = Model.Sum(x => x.Subtotal);
+}
+<div class="page-heading header-text">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Thông tin giỏ hàng</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="vh-100" style=" height: 700px; margin-top: 100;">
+    <div class="container h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col">
+                <div class="card mb-4">
+                    @if(Model.Count() == 0)
+                    {
+                        <p>Giỏ hàng trống</p>
+                    }
+                    else
+                    {
+                    <table border="1" style="min-height: 500px;">
+                        <tr>
+                            <th style="width: 200; text-align: center;">Hình ảnh</th>
+                            <th style="width: 200; text-align: center;">Tên sản phẩm</th>
+                            <th style="width: 200; text-align: center;">Số lượng</th>
+                            <th style="width: 200; text-align: center;">Đơn giá</th>
+                            <th style="width: 200; text-align: center;">Thành tiền</th>
+                        </tr>
+                        @foreach (var item in Model)
+                        {
+                        <tr>
+                            <td style="width: 200;">
+                                    <img style="text-align: center;" src="~/assets/images/@item.Image" height="100" width="100">
+                            </td>
+                            <td style="width: 200;">@item.ProductName</td>
+                            <td style="width: 200; text-align: center;">@item.Quantity</td>
+                            <td style="width: 200; text-align: center;">@item.Price</td>
+                            <td style="width: 200; text-align: center;">@item.Subtotal</td>
+                        </tr>
+                        }
+                        <tr>
+                            <td colspan="4"><b style="margin-right: 100px;">Tổng tiền</b></td>
+                            <td style="width: 200; text-align: center;">@totalMoney</td>
+                        </tr>
+                    </table>
+                    }
+                    <div class="d-flex justify-content-end">
+                        <a href="RemoveCard.php" type="button" class="btn btn-light btn-lg me-2">Xóa tất cả giỏ hàng</a>
+                        
+                        <form action="/paymen/payment" method="post">
+                            <input name="totalMoney" type="number" value="@totalMoney" hidden />
+                            <select name="pthuc" class="btn btn-light btn-lg me-2">
+                                <option value="VNPAYQR">Thanh toán quét mã QR</option>
+                                <option value="VNBANK">Thẻ thanh toán nội địa</option>
+                                <option value="INTCARD">Thẻ thanh toán quốc tế</option>
+                            </select>
+            
+                            <input type="submit" class="btn btn-primary btn-lg" value="Thanh toán" />
+                        </form>
+                    </div>

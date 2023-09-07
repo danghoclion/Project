@@ -1,0 +1,14 @@
+D:\Source Code\MobileShop.Core\MobileShop.Core\bin\Debug\net7.0\MobileShop.Core.deps.json
+D:\Source Code\MobileShop.Core\MobileShop.Core\bin\Debug\net7.0\MobileShop.Core.runtimeconfig.json
+D:\Source Code\MobileShop.Core\MobileShop.Core\bin\Debug\net7.0\MobileShop.Core.dll
+D:\Source Code\MobileShop.Core\MobileShop.Core\bin\Debug\net7.0\MobileShop.Core.pdb
+D:\Source Code\MobileShop.Core\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.csproj.AssemblyReference.cache
+D:\Source Code\MobileShop.Core\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Code\MobileShop.Core\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.AssemblyInfoInputs.cache
+D:\Source Code\MobileShop.Core\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.AssemblyInfo.cs
+D:\Source Code\MobileShop.Core\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.csproj.CoreCompileInputs.cache
+D:\Source Code\MobileShop.Core\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.dll
+D:\Source Code\MobileShop.Core\MobileShop.Core\obj\Debug\net7.0\refint\MobileShop.Core.dll
+D:\Source Code\MobileShop.Core\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.pdb
+D:\Source Code\MobileShop.Core\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.genruntimeconfig.cache
+D:\Source Code\MobileShop.Core\MobileShop.Core\obj\Debug\net7.0\ref\MobileShop.Core.dll
