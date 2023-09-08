@@ -71,5 +71,23 @@ namespace MobileShop.Web.Controllers
             var userCart = unitOfWork.UserCartRepository.GetByWhereAsync(x => x.UserId == shopUser.Id).ToList();
             return View(userCart);
         }
+
+        [HttpGet]
+        public async Task<IActionResult> History()
+        {
+            var shopUser = await userManager.GetUserAsync(User);
+            var orders = unitOfWork.OrderRepository.GetByWhereAsync(x => x.UserId == shopUser.Id).ToList();
+            return View(orders);        
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Cancel(int id)
+        {
+            var order = await unitOfWork.OrderRepository.GetByIdAsync(id);
+            order.OrderStatus = "Đã hủy";
+            TempData["SuccessMessage"] = "Hủy đơn thành công";
+            unitOfWork.SaveChange();
+            return Redirect("/Product/History");
+        }
     }
 }

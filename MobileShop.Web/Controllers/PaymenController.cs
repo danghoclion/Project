@@ -65,31 +65,7 @@ namespace MobileShop.Web.Controllers
             vnpay.AddRequestData("vnp_OrderType", "billpayment"); //default value: other
             vnpay.AddRequestData("vnp_ReturnUrl", vnp_Returnurl);
             vnpay.AddRequestData("vnp_TxnRef", order.OrderId.ToString());
-            //vnpay.AddRequestData("vnp_ExpireDate", txtExpire.Text);
-            //Billing
-            //vnpay.AddRequestData("vnp_Bill_Mobile", txt_billing_mobile.Text.Trim());
-            //vnpay.AddRequestData("vnp_Bill_Email", txt_billing_email.Text.Trim());
-            //var fullName = txt_billing_fullname.Text.Trim();
-            //if (!String.IsNullOrEmpty(fullName))
-            //{
-            //    var indexof = fullName.IndexOf(' ');
-            //    vnpay.AddRequestData("vnp_Bill_FirstName", fullName.Substring(0, indexof));
-            //    vnpay.AddRequestData("vnp_Bill_LastName", fullName.Substring(indexof + 1,
-            //    fullName.Length - indexof - 1));
-            //}
-            //vnpay.AddRequestData("vnp_Bill_Address", txt_inv_addr1.Text.Trim());
-            //vnpay.AddRequestData("vnp_Bill_City", txt_bill_city.Text.Trim());
-            //vnpay.AddRequestData("vnp_Bill_Country", txt_bill_country.Text.Trim());
-            //vnpay.AddRequestData("vnp_Bill_State", "");
-            //// Invoice
-            //vnpay.AddRequestData("vnp_Inv_Phone", txt_inv_mobile.Text.Trim());
-            //vnpay.AddRequestData("vnp_Inv_Email", txt_inv_email.Text.Trim());
-            //vnpay.AddRequestData("vnp_Inv_Customer", txt_inv_customer.Text.Trim());
-            //vnpay.AddRequestData("vnp_Inv_Address", txt_inv_addr1.Text.Trim());
-            //vnpay.AddRequestData("vnp_Inv_Company", txt_inv_company.Text);
-            //vnpay.AddRequestData("vnp_Inv_Taxcode", txt_inv_taxcode.Text);
-            //vnpay.AddRequestData("vnp_Inv_Type", cbo_inv_type.SelectedItem.Value);
-
+            
             string paymentUrl = vnpay.CreateRequestUrl(vnp_Url, vnp_HashSecret);
             //log.InfoFormat("VNPAY URL: {0}", paymentUrl);
 

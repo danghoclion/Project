@@ -18,6 +18,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
+using MobileShop.Core.Helper;
 
 namespace MobileShop.Web.Areas.Identity.Pages.Account
 {
@@ -118,6 +119,7 @@ namespace MobileShop.Web.Areas.Identity.Pages.Account
                 await _userStore.SetUserNameAsync(user, userName[0], CancellationToken.None);
                 await _emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
                 var result = await _userManager.CreateAsync(user, Input.Password);
+                await _userManager.AddToRoleAsync(user, SD.Role_User);
 
                 if (result.Succeeded)
                 {

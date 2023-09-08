@@ -18,5 +18,11 @@ namespace MobileShop.Core.Repositories.Repository
         public UserRepository(MobileShopDBContext context) : base(context)
         {
         }
+
+        public IdentityUser GetById(string id)
+        {
+            var user = entities.Where(x => x.Id == id).FirstOrDefault();
+            return user;
+        }
     }
 }

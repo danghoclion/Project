@@ -1,10 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using MobileShop.Core.Helper;
 using MobileShop.Core.Models;
 using MobileShop.Core.Repositories.IRepository;
 
 namespace MobileShop.Web.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = SD.Role_Employee + "," + SD.Role_Owner)]
     public class ProductAdminController : Controller
     {
         private readonly IUnitOfWork unitOfWork;

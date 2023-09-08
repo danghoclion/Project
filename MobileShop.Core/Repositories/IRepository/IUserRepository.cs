@@ -10,5 +10,6 @@ namespace MobileShop.Core.Repositories.IRepository
 {
     public interface IUserRepository : IGenericRepository<IdentityUser>
     {
+        IdentityUser GetById(string id);
     }
 }
