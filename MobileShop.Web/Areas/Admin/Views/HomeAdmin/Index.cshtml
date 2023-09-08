@@ -1,8 +1,71 @@
 ﻿
 @{
-    ViewData["Title"] = "Index";
-    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+	ViewData["Title"] = "Index";
+	Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
 }
 
-<h1>Index</h1>
+<div class="container">
+    
+    <div id="chartContainer3" style="width: 45%; height: 300px;display: inline-block;"></div>
+    <div id="chartContainer4" style="width: 45%; height: 300px;display: inline-block;"></div><br />
+    <div id="chartContainer2" style="width: 90%; height: 300px;display: inline-block;"></div>
+</div>
 
+
+
+<script type="text/javascript">
+    
+    var chart2 = new CanvasJS.Chart("chartContainer2", {
+        animationEnabled: true,
+        title: {
+            text: "Thống kê doanh thu theo hãng",
+            fontFamily: "Helvetica"
+        },
+        data: [
+            {
+                type: "pie",
+                dataPoints: @Html.Raw(ViewBag.pieDataPoints)
+            },
+        ]
+    });
+    chart2.render();
+
+    var chart3 = new CanvasJS.Chart("chartContainer3", {
+        animationEnabled: true,
+        title: {
+            text: "Thống kê doanh thu theo tháng",
+            fontFamily: "Helvetica"
+        },
+        axisX: {
+            valueFormatString: "MMM",
+            interval: 1,
+            intervalType: "month"
+        },
+        axisY: {
+            includeZero: false
+        },
+        data: [
+            {
+                type: "line",
+                dataPoints: @Html.Raw(ViewBag.lineDataPoints)
+            }
+        ]
+    });
+    chart3.render();
+
+    var chart4 = new CanvasJS.Chart("chartContainer4", {
+        animationEnabled: true,
+        title: {
+            text: "Thống kê số lượng sản phẩm theo hãng",
+            fontFamily: "Helvetica"
+        },
+        data: [
+            {
+                type: "column",
+                color: "rgba(255,12,32,.3)",
+                dataPoints: @Html.Raw(ViewBag.columnDataPoints)
+            },
+        ]
+    });
+    chart4.render();
+</script>

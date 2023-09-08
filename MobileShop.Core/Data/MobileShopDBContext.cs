@@ -19,19 +19,19 @@ namespace MobileShop.Core.Data
         public DbSet<Order> Orders { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<OrderDetail> OrderDetail { get; set; }
+
         public MobileShopDBContext()
         {
         }
 
         public MobileShopDBContext(DbContextOptions options) : base(options)
         {
-
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer(@"Server=DANGHOCPC;Database=ShopManagementDB;Trusted_Connection=True;TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer(@"Server=DESKTOP-OJ0HV03;Database=ShopManagementDB;Trusted_Connection=True;TrustServerCertificate=True;");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
