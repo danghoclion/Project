@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MobileShop.Core.Data;
+using MobileShop.Core.Helper;
 using MobileShop.Core.Models;
 using MobileShop.Core.Repositories.IRepository;
 using System;
@@ -23,6 +24,26 @@ namespace MobileShop.Core.Repositories.Repository
         {
             var products = await entities.Where(x=> x.CategoryId== id).ToListAsync();
             return products;
+        }
+
+        public string GetCategoryName(int id)
+        {
+            var category = context.Categorys.Find(id);
+            return category.CategoryName;
+        }
+
+        public List<DataPoint> GetReportProduct()
+        {
+            var listData = new List<DataPoint>();
+            var categories = context.Categorys.ToList();
+            var products = entities.ToList();
+            foreach (var category in categories)
+            {
+                var count = (double)products.Where(x => x.CategoryId == category.CategoryId).Sum(u => u.Quantity);
+                DataPoint dataPoint = new DataPoint(category.CategoryName, count);
+                listData.Add(dataPoint);
+            }
+            return listData;
         }
     }
 }

@@ -12,3 +12,17 @@ D:\Source Code\MobileShop.Core\MobileShop.Core\obj\Debug\net7.0\refint\MobileSho
 D:\Source Code\MobileShop.Core\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.pdb
 D:\Source Code\MobileShop.Core\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.genruntimeconfig.cache
 D:\Source Code\MobileShop.Core\MobileShop.Core\obj\Debug\net7.0\ref\MobileShop.Core.dll
+C:\Users\dangh\OneDrive\Desktop\New folder\Project\MobileShop.Core\bin\Debug\net7.0\MobileShop.Core.deps.json
+C:\Users\dangh\OneDrive\Desktop\New folder\Project\MobileShop.Core\bin\Debug\net7.0\MobileShop.Core.runtimeconfig.json
+C:\Users\dangh\OneDrive\Desktop\New folder\Project\MobileShop.Core\bin\Debug\net7.0\MobileShop.Core.dll
+C:\Users\dangh\OneDrive\Desktop\New folder\Project\MobileShop.Core\bin\Debug\net7.0\MobileShop.Core.pdb
+C:\Users\dangh\OneDrive\Desktop\New folder\Project\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.csproj.AssemblyReference.cache
+C:\Users\dangh\OneDrive\Desktop\New folder\Project\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dangh\OneDrive\Desktop\New folder\Project\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.AssemblyInfoInputs.cache
+C:\Users\dangh\OneDrive\Desktop\New folder\Project\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.AssemblyInfo.cs
+C:\Users\dangh\OneDrive\Desktop\New folder\Project\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\dangh\OneDrive\Desktop\New folder\Project\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.dll
+C:\Users\dangh\OneDrive\Desktop\New folder\Project\MobileShop.Core\obj\Debug\net7.0\refint\MobileShop.Core.dll
+C:\Users\dangh\OneDrive\Desktop\New folder\Project\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.pdb
+C:\Users\dangh\OneDrive\Desktop\New folder\Project\MobileShop.Core\obj\Debug\net7.0\MobileShop.Core.genruntimeconfig.cache
+C:\Users\dangh\OneDrive\Desktop\New folder\Project\MobileShop.Core\obj\Debug\net7.0\ref\MobileShop.Core.dll

@@ -1,4 +1,5 @@
-﻿using MobileShop.Core.Models;
+﻿using MobileShop.Core.Helper;
+using MobileShop.Core.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,5 +11,7 @@ namespace MobileShop.Core.Repositories.IRepository
     public interface IProductRepository : IGenericRepository<Product>
     {
         Task<List<Product>> GetByCategoryId(int id);
+        string GetCategoryName(int id);
+        List<DataPoint> GetReportProduct();
     }
 }
