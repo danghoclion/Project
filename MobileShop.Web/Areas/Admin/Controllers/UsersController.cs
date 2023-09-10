@@ -83,7 +83,7 @@ namespace MobileShop.Web.Areas.Admin.Controllers
             var passwordHasher = new PasswordHasher<IdentityUser>();
             var user =await userManager.FindByIdAsync(userDTO.Id);   
             var token = await userManager.GeneratePasswordResetTokenAsync(user);
-            await userManager.ResetPasswordAsync(user, token, userDTO.Password);
+            var result = await userManager.ResetPasswordAsync(user, token, userDTO.Password);
             var roles = await userManager.GetRolesAsync(user);
             await userManager.AddToRoleAsync(user, userDTO.Role);
             if (roles.Count != 0)
