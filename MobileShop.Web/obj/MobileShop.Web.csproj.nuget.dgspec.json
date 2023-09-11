@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\MobileShop.Web.csproj": {}
+    "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\MobileShop.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Core\\MobileShop.Core.csproj": {
+    "D:\\Source Code\\MobileShop.Core\\MobileShop.Core\\MobileShop.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Core\\MobileShop.Core.csproj",
+        "projectUniqueName": "D:\\Source Code\\MobileShop.Core\\MobileShop.Core\\MobileShop.Core.csproj",
         "projectName": "MobileShop.Core",
-        "projectPath": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Core\\MobileShop.Core.csproj",
-        "packagesPath": "C:\\Users\\dangh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Core\\obj\\",
+        "projectPath": "D:\\Source Code\\MobileShop.Core\\MobileShop.Core\\MobileShop.Core.csproj",
+        "packagesPath": "C:\\Users\\DangHoc\\.nuget\\packages\\",
+        "outputPath": "D:\\Source Code\\MobileShop.Core\\MobileShop.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dangh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DangHoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,21 +71,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\MobileShop.Web.csproj": {
+    "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\MobileShop.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\MobileShop.Web.csproj",
+        "projectUniqueName": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\MobileShop.Web.csproj",
         "projectName": "MobileShop.Web",
-        "projectPath": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\MobileShop.Web.csproj",
-        "packagesPath": "C:\\Users\\dangh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\obj\\",
+        "projectPath": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\MobileShop.Web.csproj",
+        "packagesPath": "C:\\Users\\DangHoc\\.nuget\\packages\\",
+        "outputPath": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dangh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DangHoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -99,8 +99,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Core\\MobileShop.Core.csproj": {
-                "projectPath": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Core\\MobileShop.Core.csproj"
+              "D:\\Source Code\\MobileShop.Core\\MobileShop.Core\\MobileShop.Core.csproj": {
+                "projectPath": "D:\\Source Code\\MobileShop.Core\\MobileShop.Core\\MobileShop.Core.csproj"
               }
             }
           }
@@ -157,7 +157,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,583 +1,583 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MobileShop.Web.bundle.scp.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MobileShop.Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\MobileShop.Web.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\css\\flex-slider.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\css\\flex-slider.css",
       "PackagePath": "staticwebassets\\assets\\css\\flex-slider.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\css\\fontawesome.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\css\\fontawesome.css",
       "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\css\\owl.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\css\\owl.css",
       "PackagePath": "staticwebassets\\assets\\css\\owl.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\css\\style.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\demo\\chart-area-demo.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\demo\\chart-area-demo.js",
       "PackagePath": "staticwebassets\\assets\\demo\\chart-area-demo.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\demo\\chart-bar-demo.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\demo\\chart-bar-demo.js",
       "PackagePath": "staticwebassets\\assets\\demo\\chart-bar-demo.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\demo\\chart-pie-demo.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\demo\\chart-pie-demo.js",
       "PackagePath": "staticwebassets\\assets\\demo\\chart-pie-demo.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\demo\\datatables-demo.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\demo\\datatables-demo.js",
       "PackagePath": "staticwebassets\\assets\\demo\\datatables-demo.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\fonts\\Flaticon.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.eot"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.svg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.ttf"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.woff"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\fonts\\slick.eot",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\fonts\\slick.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\fonts\\slick.svg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\fonts\\slick.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\fonts\\slick.ttf",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\fonts\\slick.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\fonts\\slick.woff",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\fonts\\slick.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1.png",
       "PackagePath": "staticwebassets\\assets\\images\\1.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1670076760_anh1.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1670076760_anh1.png",
       "PackagePath": "staticwebassets\\assets\\images\\1670076760_anh1.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1670079773_anh3.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1670079773_anh3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\1670079773_anh3.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1670080374_anh2.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1670080374_anh2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\1670080374_anh2.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1670083347_anh1.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1670083347_anh1.png",
       "PackagePath": "staticwebassets\\assets\\images\\1670083347_anh1.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1670083754_anh3.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1670083754_anh3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\1670083754_anh3.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671121674_Ảnh chụp màn hình 2022-12-15 221936.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671121674_Ảnh chụp màn hình 2022-12-15 221936.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671121674_Ảnh chụp màn hình 2022-12-15 221936.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671127302_Ảnh chụp màn hình 2022-12-16 005929.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671127302_Ảnh chụp màn hình 2022-12-16 005929.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671127302_Ảnh chụp màn hình 2022-12-16 005929.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671127404_Ảnh chụp màn hình 2022-12-16 010158.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671127404_Ảnh chụp màn hình 2022-12-16 010158.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671127404_Ảnh chụp màn hình 2022-12-16 010158.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671127497_Ảnh chụp màn hình 2022-12-16 010446.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671127497_Ảnh chụp màn hình 2022-12-16 010446.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671127497_Ảnh chụp màn hình 2022-12-16 010446.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671127598_Ảnh chụp màn hình 2022-12-16 010519.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671127598_Ảnh chụp màn hình 2022-12-16 010519.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671127598_Ảnh chụp màn hình 2022-12-16 010519.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671127704_Ảnh chụp màn hình 2022-12-16 010814.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671127704_Ảnh chụp màn hình 2022-12-16 010814.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671127704_Ảnh chụp màn hình 2022-12-16 010814.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671128909_Ảnh chụp màn hình 2022-12-16 012719.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671128909_Ảnh chụp màn hình 2022-12-16 012719.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671128909_Ảnh chụp màn hình 2022-12-16 012719.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671129090_Ảnh chụp màn hình 2022-12-16 012719.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671129090_Ảnh chụp màn hình 2022-12-16 012719.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671129090_Ảnh chụp màn hình 2022-12-16 012719.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671129189_Ảnh chụp màn hình 2022-12-16 013155.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671129189_Ảnh chụp màn hình 2022-12-16 013155.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671129189_Ảnh chụp màn hình 2022-12-16 013155.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671129281_Ảnh chụp màn hình 2022-12-16 013329.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671129281_Ảnh chụp màn hình 2022-12-16 013329.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671129281_Ảnh chụp màn hình 2022-12-16 013329.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671129447_Ảnh chụp màn hình 2022-12-16 013620.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671129447_Ảnh chụp màn hình 2022-12-16 013620.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671129447_Ảnh chụp màn hình 2022-12-16 013620.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671129529_Ảnh chụp màn hình 2022-12-16 013752.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671129529_Ảnh chụp màn hình 2022-12-16 013752.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671129529_Ảnh chụp màn hình 2022-12-16 013752.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671129627_Ảnh chụp màn hình 2022-12-16 013934.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671129627_Ảnh chụp màn hình 2022-12-16 013934.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671129627_Ảnh chụp màn hình 2022-12-16 013934.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671129769_Ảnh chụp màn hình 2022-12-16 014150.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671129769_Ảnh chụp màn hình 2022-12-16 014150.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671129769_Ảnh chụp màn hình 2022-12-16 014150.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671129852_Ảnh chụp màn hình 2022-12-16 014317.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671129852_Ảnh chụp màn hình 2022-12-16 014317.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671129852_Ảnh chụp màn hình 2022-12-16 014317.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671371910_Ảnh chụp màn hình 2022-12-18 205738.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671371910_Ảnh chụp màn hình 2022-12-18 205738.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671371910_Ảnh chụp màn hình 2022-12-18 205738.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671372076_Ảnh chụp màn hình 2022-12-18 205948.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671372076_Ảnh chụp màn hình 2022-12-18 205948.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671372076_Ảnh chụp màn hình 2022-12-18 205948.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671372484_Ảnh chụp màn hình 2022-12-18 210535.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671372484_Ảnh chụp màn hình 2022-12-18 210535.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671372484_Ảnh chụp màn hình 2022-12-18 210535.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671372624_Ảnh chụp màn hình 2022-12-18 210910.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671372624_Ảnh chụp màn hình 2022-12-18 210910.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671372624_Ảnh chụp màn hình 2022-12-18 210910.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671372738_Ảnh chụp màn hình 2022-12-18 211105.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671372738_Ảnh chụp màn hình 2022-12-18 211105.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671372738_Ảnh chụp màn hình 2022-12-18 211105.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671372859_Ảnh chụp màn hình 2022-12-18 211306.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671372859_Ảnh chụp màn hình 2022-12-18 211306.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671372859_Ảnh chụp màn hình 2022-12-18 211306.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671373038_Ảnh chụp màn hình 2022-12-18 211527.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671373038_Ảnh chụp màn hình 2022-12-18 211527.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671373038_Ảnh chụp màn hình 2022-12-18 211527.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671373158_Ảnh chụp màn hình 2022-12-18 211822.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671373158_Ảnh chụp màn hình 2022-12-18 211822.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671373158_Ảnh chụp màn hình 2022-12-18 211822.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671373387_Ảnh chụp màn hình 2022-12-18 211945.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671373387_Ảnh chụp màn hình 2022-12-18 211945.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671373387_Ảnh chụp màn hình 2022-12-18 211945.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671373508_Ảnh chụp màn hình 2022-12-18 212354.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671373508_Ảnh chụp màn hình 2022-12-18 212354.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671373508_Ảnh chụp màn hình 2022-12-18 212354.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671373671_Ảnh chụp màn hình 2022-12-18 212604.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671373671_Ảnh chụp màn hình 2022-12-18 212604.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671373671_Ảnh chụp màn hình 2022-12-18 212604.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\1671373781_Ảnh chụp màn hình 2022-12-18 212812.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\1671373781_Ảnh chụp màn hình 2022-12-18 212812.png",
       "PackagePath": "staticwebassets\\assets\\images\\1671373781_Ảnh chụp màn hình 2022-12-18 212812.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\about-1-570x350.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\about-1-570x350.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\about-1-570x350.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\about-fullscreen-image-1-1920x600.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\about-fullscreen-image-1-1920x600.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\about-fullscreen-image-1-1920x600.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\anh1.png",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\anh1.png",
       "PackagePath": "staticwebassets\\assets\\images\\anh1.png"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\anh2.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\anh2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\anh2.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\anh3.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\anh3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\anh3.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\anh4.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\anh4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\anh4.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\anh5.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\anh5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\anh5.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\banner-image-1-1920x500.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\banner-image-1-1920x500.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner-image-1-1920x500.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\blog-image-1-940x460.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\blog-image-1-940x460.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog-image-1-940x460.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\blog-image-2-940x460.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\blog-image-2-940x460.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog-image-2-940x460.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\blog-image-3-940x460.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\blog-image-3-940x460.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog-image-3-940x460.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\blog-image-fullscren-1-1920x700.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\blog-image-fullscren-1-1920x700.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog-image-fullscren-1-1920x700.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\product-1-720x480.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\product-1-720x480.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product-1-720x480.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\product-2-720x480.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\product-2-720x480.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product-2-720x480.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\product-3-720x480.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\product-3-720x480.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product-3-720x480.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\product-4-720x480.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\product-4-720x480.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product-4-720x480.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\product-5-720x480.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\product-5-720x480.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product-5-720x480.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\product-6-720x480.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\product-6-720x480.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product-6-720x480.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\slider-image-1-1920x900.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\slider-image-1-1920x900.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\slider-image-1-1920x900.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\slider-image-2-1920x900.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\slider-image-2-1920x900.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\slider-image-2-1920x900.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\images\\slider-image-3-1920x900.jpg",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\images\\slider-image-3-1920x900.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\slider-image-3-1920x900.jpg"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\js\\accordions.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\js\\accordions.js",
       "PackagePath": "staticwebassets\\assets\\js\\accordions.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\js\\custom.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\js\\custom.js",
       "PackagePath": "staticwebassets\\assets\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\js\\owl.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\js\\owl.js",
       "PackagePath": "staticwebassets\\assets\\js\\owl.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\assets\\js\\slick.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\assets\\js\\slick.js",
       "PackagePath": "staticwebassets\\assets\\js\\slick.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\css\\site.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\css\\styles.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\css\\styles.css",
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\favicon.ico",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\js\\datatables-simple-demo.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\js\\datatables-simple-demo.js",
       "PackagePath": "staticwebassets\\js\\datatables-simple-demo.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\js\\scripts.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\js\\scripts.js",
       "PackagePath": "staticwebassets\\js\\scripts.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\js\\site.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\dangh\\OneDrive\\Desktop\\New folder\\Project\\MobileShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Source Code\\MobileShop.Core\\MobileShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
