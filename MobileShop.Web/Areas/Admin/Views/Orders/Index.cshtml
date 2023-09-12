@@ -45,7 +45,10 @@
                             <td>@item.TotalPrice</td>
                             <td>@item.OrderStatus</td>
                             <td style="text-align: center;">
-                                <a class="btn btn-warning" href="/admin/orders/confirm/@item.OrderId">Xác nhận</a>
+                                @if(@item.OrderStatus == "Đang giao hàng")
+                                {
+                                    <a class="btn btn-warning" href="/admin/orders/confirm/@item.OrderId">Xác nhận</a>
+                                }
                             </td>
                         </tr>
                     }
