@@ -3,6 +3,7 @@
 @{
     decimal totalMoney = Model.Sum(x => x.Subtotal);
 }
+<partial name="_AlertNoti" />
 <div class="page-heading header-text">
     <div class="container">
         <div class="row">
@@ -51,7 +52,7 @@
                     </table>
                     }
                     <div class="d-flex justify-content-end">
-                        <a href="RemoveCard.php" type="button" class="btn btn-light btn-lg me-2">Xóa tất cả giỏ hàng</a>
+                        <a href="/Product/DestroyCart" type="button" class="btn btn-light btn-lg me-2">Xóa tất cả giỏ hàng</a>
                         
                         <form action="/paymen/payment" method="post">
                             <input name="totalMoney" type="number" value="@totalMoney" hidden />

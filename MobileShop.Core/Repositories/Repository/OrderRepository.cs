@@ -3,11 +3,6 @@ using MobileShop.Core.Data;
 using MobileShop.Core.Helper;
 using MobileShop.Core.Models;
 using MobileShop.Core.Repositories.IRepository;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MobileShop.Core.Repositories.Repository
 {
@@ -30,18 +25,19 @@ namespace MobileShop.Core.Repositories.Repository
             {
                 if (startDate.Month == endDate.Month)
                 {
-                    var orders = await entities.Where(obj => obj.DateOrder >= start && obj.DateOrder <= end).ToListAsync();
+                    var orders = await entities.Where(obj => obj.DateOrder >= start && obj.DateOrder <= end && obj.OrderStatus == "Thành công").ToListAsync();
                     var data = (double)orders.Sum(x => x.TotalPrice);
                     DataPoint dataPoint = new DataPoint(startDate.ToString("MM/yyyy"), data);
                     listData.Add(dataPoint);
                 }
                 else
                 {
-                    while (startDate.Month != endDate.Month)
+                    var tempEmdDate = endDate.AddMonths(1);
+                    while (startDate.Month != tempEmdDate.Month)
                     {
                         var endOfMonth = new DateTime(startDate.Year, startDate.Month, 1).AddMonths(1);
                         endOfMonth = endOfMonth.AddDays(-1);
-                        var orders = entities.Where(obj => obj.DateOrder >= startDate && obj.DateOrder <= endOfMonth).ToList();
+                        var orders = await entities.Where(obj => obj.DateOrder >= startDate && obj.DateOrder <= endOfMonth && obj.OrderStatus == "Thành công").ToListAsync();
                         var data = (double)orders.Sum(x => x.TotalPrice);
 
                         DataPoint dataPoint = new DataPoint(startDate.ToString("MM/yyyy"), data);
@@ -65,7 +61,7 @@ namespace MobileShop.Core.Repositories.Repository
             {
                 if (startDate.Month == endDate.Month)
                 {
-                    var orders = await entities.Where(obj => obj.DateOrder >= start && obj.DateOrder <= end).ToListAsync();
+                    var orders = await entities.Where(obj => obj.DateOrder >= start && obj.DateOrder <= end && obj.OrderStatus == "Thành công").ToListAsync();
                     var data = orders.Join(context.OrderDetail,
                     ord => ord.OrderId,
                     odetail => odetail.OrderId,
@@ -80,11 +76,12 @@ namespace MobileShop.Core.Repositories.Repository
                 }
                 else
                 {
-                    while(startDate.Month != endDate.Month)
+                    var tempEmdDate = endDate.AddMonths(1);
+                    while (startDate.Month != tempEmdDate.Month)
                     {
                         var endOfMonth = new DateTime(startDate.Year, startDate.Month, 1).AddMonths(1);
                         endOfMonth = endOfMonth.AddDays(-1);
-                        var orders = entities.Where(obj => obj.DateOrder >= startDate && obj.DateOrder <= endOfMonth).ToList();
+                        var orders =await entities.Where(obj => obj.DateOrder >= startDate && obj.DateOrder <= endOfMonth && obj.OrderStatus == "Thành công").ToListAsync();
                         var data = orders.Join(context.OrderDetail,
                         ord => ord.OrderId,
                         odetail => odetail.OrderId,
